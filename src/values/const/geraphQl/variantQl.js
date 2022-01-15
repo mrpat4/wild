@@ -1,0 +1,118 @@
+const variantQl = `
+_id
+title
+slug
+description
+shortDescription
+
+thumbnail{
+  _id
+  filename
+  path
+}
+media{
+  _id
+  filename
+  path
+}
+price
+salePrice
+secondaryPrice
+secondarySalePrice
+locale{
+  _id
+  country{
+    _id
+    title
+  }
+  language{
+    _id
+    title
+  }
+  currency{
+    _id
+    title
+  }
+  secondaryCurrency{
+    _id
+    title
+  }
+}
+features{
+  feature{
+    _id
+    title
+  }
+  value
+}
+schedule{
+  from
+  to
+}
+attributes{
+  _id
+  parent{
+    _id
+    title
+    type
+  }
+  title
+  label
+  color
+
+}
+stock{
+  manageStock
+  stockStatus
+  stockQuantity
+  lowStockThreshold
+}
+shipping{
+  weight
+  dimensions{
+    length
+    width
+    height
+  }
+  shippingClass{
+    _id
+    title
+    deliveryTime
+    country{
+      _id
+    }
+    description
+    status
+    createdAt
+    updatedAt
+  }
+}
+coupons{
+  _id
+  title
+  amount
+  discountType
+  expiration
+  
+}
+couponStatus
+taxClass{
+  _id
+  title
+}
+tags{
+  _id
+  title
+  slug
+  parent{
+    _id
+    title
+  }
+  description
+}
+taxStatus
+viewCount
+unitsSold
+
+ `
+export default variantQl

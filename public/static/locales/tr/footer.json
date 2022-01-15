@@ -1,0 +1,23 @@
+{
+  "footer": {
+    "description-top": "Neden kullanıyoruz? Bir okuyucunun, düzenine bakarken bir sayfanın okunabilir içeriğinden dikkatinin dağılacağı uzun süredir bilinen bir gerçektir.",
+    "description-bottom": "Lorem Ipsum kullanmanın amacı, aşağı yukarı normal bir harf dağılımına sahip olmasıdır.",
+    "copy-right": "© 2021 CME Group Inc. Tüm hakları saklıdır.",
+    "feedback": "geri bildirim",
+    "modal-feedback": {
+      "headline": "Geri bildirim sağlayın veya bir fikir paylaşın",
+      "your-message": "Mesajın",
+      "email": "E-posta adresi",
+      "submit": "Sunmak"
+    },
+    "rule": {
+      "disclaimer": "Feragatname",
+      "privacy-policy": "Gizlilik Politikası",
+      "cookie-policy": "Çerez politikası",
+      "terms-of-use": "Kullanım Şartları",
+      "data-terms-of-use": "Kullanım Şartları",
+      "modern-slavery-act-transparency-statement": "Modern Kölelik Yasası Şeffaflık Beyanı",
+      "report-a-security-concern": "Bir Güvenlik Endişesini Bildirin"
+    }
+  }
+}

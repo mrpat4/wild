@@ -1,0 +1,92 @@
+{
+    "data": [
+        {
+            "subtitle": "featured products",
+            "lists": [
+                {
+                    "title": "corn new"
+                },
+                {
+                    "title": "Soybean new"
+                },
+                {
+                    "title": "WTI Crude Oil new"
+                },
+                {
+                    "title": "Henry Hub Natural Gas new"
+                },
+                {
+                    "title": "E-mini S&P 500 new"
+                },
+                {
+                    "title": "E-mini NASDAQ 100 new"
+                },
+                {
+                    "title": "Euro FX new"
+                },
+                {
+                    "title": "Eurodollar new"
+                },
+                {
+                    "title": "10-Year T-Note new"
+                },
+                {
+                    "title": "SOFR new"
+                },
+                {
+                    "title": "Gold new"
+                },
+                {
+                    "title": "Copper new"
+                },
+                {
+                    "title": "All Products new"
+                }
+            ]
+        },
+        {
+            "subtitle": "BROWSE BY",
+            "lists": [
+                {
+                    "title": "corn new"
+                },
+                {
+                    "title": "Soybean new"
+                },
+                {
+                    "title": "WTI Crude Oil new"
+                },
+                {
+                    "title": "Henry Hub Natural Gas new"
+                },
+                {
+                    "title": "E-mini S&P 500 new"
+                },
+                {
+                    "title": "E-mini NASDAQ 100 new"
+                },
+                {
+                    "title": "Euro FX new"
+                },
+                {
+                    "title": "Eurodollar new"
+                },
+                {
+                    "title": "10-Year T-Note new"
+                },
+                {
+                    "title": "SOFR new"
+                },
+                {
+                    "title": "Gold new"
+                },
+                {
+                    "title": "Copper new"
+                },
+                {
+                    "title": "All Products new"
+                }
+            ]
+        }
+    ]
+}

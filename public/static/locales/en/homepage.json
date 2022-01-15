@@ -1,0 +1,17 @@
+{
+  "hero": {
+    "question": "Hello,how can we help you?",
+    "search": "Search"
+  },
+  "first-section": {
+    "title": "What's Wingle ?"
+  },
+  "select-os": {
+    "title": "Select your OS and browse all Help",
+    "btn-android": "Android",
+    "btn-ios": "ios"
+  },
+  "submit-request": {
+    "btn-submit": "Submit a request"
+  }
+}
